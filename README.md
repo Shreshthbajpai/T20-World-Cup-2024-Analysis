@@ -17,7 +17,7 @@ A data-driven project analyzing team and player performance in the T20 World Cup
 
 ### 1️⃣ **Innings Score Distribution**
 
-<img src="visuals/01_innings_distribution.png" width="800"/>
+<img src="reports/innings_score_distribution.png" width="800"/>
 
 - 1st innings scores tend to be higher on average.
 - 2nd innings scores are more tightly clustered.
