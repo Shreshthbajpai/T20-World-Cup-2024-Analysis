@@ -91,7 +91,7 @@ A data-driven project analyzing team and player performance in the T20 World Cup
 
 ### 9️⃣ **Venue-wise First Innings Score Distribution**
 
-<img src="visuals/09_scores_by_venue.png" width="800"/>
+<img src="reports/first_innings_scores_by_venue.png" width="400"/>
 
 - **Dallas**, **Bassetterre**, and **Port of Spain** saw high 1st innings scores.
 - **Georgetown** and **New York** had lower-scoring matches.
