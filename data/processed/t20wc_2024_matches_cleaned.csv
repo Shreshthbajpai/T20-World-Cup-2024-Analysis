@@ -1,0 +1,42 @@
+match_id,date,venue,team1,team2,toss_winner,toss_decision,winner,win_by_runs,win_by_wickets,player_of_match,first_innings_score,second_innings_score,first_innings_wickets,second_innings_wickets
+1,2024-06-01,Dallas,USA,Canada,USA,field,USA,0,7,Aaron Jones,194,197,5,3
+2,2024-06-02,Providence,West Indies,Papua New Guinea,West Indies,field,West Indies,0,5,Roston Chase,136,137,8,5
+3,2024-06-03,Georgetown,Namibia,Oman,Oman,field,Namibia,0,0,Ruben Trumpelmann,109,109,6,6
+4,2024-06-03,New York,Sri Lanka,South Africa,South Africa,field,South Africa,0,6,Anrich Nortje,77,80,10,4
+5,2024-06-04,Dallas,Afghanistan,Uganda,Afghanistan,field,Afghanistan,125,0,Fazalhaq Farooqi,183,58,5,10
+6,2024-06-05,New York,Ireland,India,India,field,India,0,8,Jasprit Bumrah,96,97,10,2
+7,2024-06-05,Georgetown,Papua New Guinea,Uganda,Uganda,field,Uganda,0,3,Riazat Ali Shah,77,78,8,7
+8,2024-06-06,Bridgetown,Australia,Oman,Oman,field,Australia,39,0,Marcus Stoinis,164,125,5,9
+9,2024-06-07,Dallas,USA,Pakistan,Pakistan,field,USA,0,0,Monank Patel,159,159,3,3
+10,2024-06-07,Lauderhill,Canada,Ireland,Canada,bat,Canada,12,0,Nicholas Kirton,137,125,7,7
+11,2024-06-08,New York,Netherlands,South Africa,South Africa,field,South Africa,0,4,David Miller,103,106,9,6
+12,2024-06-08,Melbourne,England,Scotland,England,field,England,0,7,Jos Buttler,168,170,6,3
+13,2024-06-09,Providence,Afghanistan,New Zealand,Afghanistan,bat,Afghanistan,84,0,Fazalhaq Farooqi,159,75,6,10
+14,2024-06-09,New York,India,Pakistan,Pakistan,field,India,6,0,Jasprit Bumrah,119,113,10,7
+15,2024-06-10,Bridgetown,Australia,England,England,field,Australia,36,0,Adam Zampa,201,165,7,6
+16,2024-06-11,New York,Canada,Pakistan,Pakistan,field,Pakistan,0,7,Mohammad Amir,106,107,7,3
+17,2024-06-12,Tarouba,West Indies,New Zealand,New Zealand,field,West Indies,13,0,Sherfane Rutherford,149,136,9,9
+18,2024-06-12,Pallekele,Bangladesh,Netherlands,Netherlands,field,Bangladesh,25,0,Shakib Al Hasan,167,142,8,8
+19,2024-06-13,Basseterre,Sri Lanka,Nepal,Sri Lanka,field,Sri Lanka,0,6,Wanindu Hasaranga,127,128,8,4
+20,2024-06-14,Providence,Afghanistan,Papua New Guinea,Papua New Guinea,field,Afghanistan,7,0,Gulbadin Naib,152,145,6,8
+21,2024-06-14,Dhaka,India,USA,India,field,India,0,7,Suryakumar Yadav,110,111,8,3
+22,2024-06-15,St. Lucia,England,Oman,Oman,field,England,0,8,Adil Rashid,47,50,10,2
+23,2024-06-15,Kingstown,Bangladesh,Nepal,Nepal,field,Bangladesh,21,0,Shakib Al Hasan,147,126,7,9
+24,2024-06-16,Kingstown,South Africa,Nepal,South Africa,bat,South Africa,1,0,Tabraiz Shamsi,115,114,7,7
+25,2024-06-16,Basseterre,West Indies,Afghanistan,West Indies,bat,West Indies,104,0,Nicholas Pooran,218,114,5,10
+26,2024-06-17,Gros Islet,Australia,Scotland,Scotland,bat,Australia,5,0,Travis Head,181,176,5,5
+27,2024-06-17,Port of Spain,New Zealand,Uganda,New Zealand,field,New Zealand,0,9,Trent Boult,40,41,10,1
+28,2024-06-18,St. Lucia,England,Namibia,England,field,England,0,0,Harry Brook,163,163,5,6
+29,2024-06-19,North Sound,South Africa,USA,USA,field,South Africa,18,0,Quinton de Kock,194,176,4,6
+30,2024-06-19,Bridgetown,England,West Indies,West Indies,field,England,0,8,Phil Salt,180,181,4,2
+31,2024-06-20,St. Lucia,India,Afghanistan,India,bat,India,47,0,Jasprit Bumrah,181,134,8,10
+32,2024-06-20,North Sound,Australia,Bangladesh,Australia,bat,Australia,28,0,Adam Zampa,140,112,5,8
+33,2024-06-21,Kingstown,England,South Africa,England,field,South Africa,0,7,Marco Jansen,163,166,6,3
+34,2024-06-21,Bridgetown,West Indies,USA,USA,field,West Indies,0,5,Shai Hope,128,130,10,5
+35,2024-06-22,North Sound,India,Bangladesh,Bangladesh,field,India,50,0,Hardik Pandya,196,146,5,8
+36,2024-06-22,St. Lucia,Australia,Afghanistan,Afghanistan,field,Afghanistan,0,7,Gulbadin Naib,148,149,8,3
+37,2024-06-24,North Sound,India,Australia,India,bat,India,24,0,Rohit Sharma,205,181,5,7
+38,2024-06-24,St. Lucia,South Africa,West Indies,South Africa,field,South Africa,0,3,Tabraiz Shamsi,135,136,8,7
+39,2024-06-26,Providence,South Africa,Afghanistan,South Africa,field,South Africa,0,9,Tabraiz Shamsi,56,60,10,1
+40,2024-06-27,Georgetown,India,England,England,field,India,68,0,Rohit Sharma,171,103,7,10
+41,2024-06-29,Bridgetown,India,South Africa,South Africa,field,India,7,0,Virat Kohli,176,169,7,8
