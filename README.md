@@ -17,7 +17,7 @@ A data-driven project analyzing team and player performance in the T20 World Cup
 
 ### 1️⃣ **Innings Score Distribution**
 
-<img src="reports/innings_score_distribution.png" width="800"/>
+<img src="reports/innings_score_distribution.png" width="400"/>
 
 - 1st innings scores tend to be higher on average.
 - 2nd innings scores are more tightly clustered.
@@ -26,7 +26,7 @@ A data-driven project analyzing team and player performance in the T20 World Cup
 
 ### 2️⃣ **Matches Played per Venue**
 
-<img src="visuals/02_matches_per_venue.png" width="800"/>
+<img src="reports/matches_per_venue.png" width="400"/>
 
 - **New York**, **Bridgetown**, and **St. Lucia** hosted the most matches.
 - Several venues hosted only a single game.
