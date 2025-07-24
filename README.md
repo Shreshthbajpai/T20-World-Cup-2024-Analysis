@@ -81,7 +81,7 @@ A data-driven project analyzing team and player performance in the T20 World Cup
 ### 8️⃣ **Winning Margins**
 
 #### By Runs | By Wickets
-:-------------------------:|:-------------------------:
+
 <img src="reports/win_margin_distribution.png" width="400"/> 
 
 - Most wins by runs were under **30**.
