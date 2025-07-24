@@ -71,7 +71,7 @@ A data-driven project analyzing team and player performance in the T20 World Cup
 
 ### 7️⃣ **Toss Decision vs Match Outcome**
 
-<img src="reports/toss_impact.png" width="600"/>
+<img src="reports/toss_impact.png" width="400"/>
 
 - Toss winners who chose to **field** had slightly better success.
 - Batting first rarely led to losses for toss winners.
@@ -82,7 +82,7 @@ A data-driven project analyzing team and player performance in the T20 World Cup
 
 #### By Runs | By Wickets
 :-------------------------:|:-------------------------:
-<img src="visuals/08_win_by_runs.png" width="400"/> | <img src="visuals/08_win_by_wickets.png" width="400"/>
+<img src="reports/win_margin_distribution.png" width="400"/> | <img src="visuals/08_win_by_wickets.png" width="400"/>
 
 - Most wins by runs were under **30**.
 - Many matches were won by **7-9 wickets**.
