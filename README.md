@@ -44,7 +44,7 @@ A data-driven project analyzing team and player performance in the T20 World Cup
 
 ### 4️⃣ **Top 10 Batsmen (Total Runs)**
 
-<img src="visuals/04_top_batsmen.png" width="800"/>
+<img src="reports/top_batsmen_runs.png" width="400"/>
 
 - **Nicholas Pooran** was the top run scorer.
 - **Rohit Sharma**, **de Kock**, and **Pant** also had strong performances.
