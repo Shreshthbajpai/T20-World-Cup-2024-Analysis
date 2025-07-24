@@ -35,7 +35,7 @@ A data-driven project analyzing team and player performance in the T20 World Cup
 
 ### 3️⃣ **Total Wins per Team**
 
-<img src="visuals/03_wins_per_team.png" width="800"/>
+<img src="reports/team_wins.png" width="400"/>
 
 - **India** and **South Africa** dominated the tournament.
 - Teams like **Canada**, **Uganda**, and **Namibia** struggled.
