@@ -62,7 +62,7 @@ A data-driven project analyzing team and player performance in the T20 World Cup
 
 ### 6️⃣ **Player of the Match Awards**
 
-<img src="visuals/06_players_of_the_match.png" width="600"/>
+<img src="reports/top_pom_players.png" width="400"/>
 
 - **Shamsi** and **Bumrah** received the most accolades.
 - Several players tied with two awards each.
