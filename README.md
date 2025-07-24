@@ -53,7 +53,7 @@ A data-driven project analyzing team and player performance in the T20 World Cup
 
 ### 5️⃣ **Top 10 Bowlers (Total Wickets)**
 
-<img src="visuals/05_top_bowlers.png" width="800"/>
+<img src="reports/top_bowlers_wickets.png" width="400"/>
 
 - **Tabraiz Shamsi** led with the most wickets.
 - **Bumrah** and **Farooqi** were also top performers.
