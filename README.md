@@ -71,7 +71,7 @@ A data-driven project analyzing team and player performance in the T20 World Cup
 
 ### 7️⃣ **Toss Decision vs Match Outcome**
 
-<img src="visuals/07_toss_vs_win.png" width="600"/>
+<img src="reports/toss_impact.png" width="600"/>
 
 - Toss winners who chose to **field** had slightly better success.
 - Batting first rarely led to losses for toss winners.
